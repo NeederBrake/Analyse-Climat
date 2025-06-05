@@ -1,0 +1,10 @@
+{
+    "DoNotCompile": [
+
+    ],
+    "DoNotDiffuse": [
+        ".\\TP13.sln",
+        ".\\TP13",
+        ".\\x64"
+    ]
+}

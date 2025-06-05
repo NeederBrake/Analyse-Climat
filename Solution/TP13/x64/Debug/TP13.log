@@ -1,0 +1,10 @@
+﻿  prog.cpp
+C:\Users\cleme\Desktop\Maël Clément\Solution\TP13\prog.cpp(88,16): warning C4305: '+=' : troncation de 'double' à 'float'
+C:\Users\cleme\Desktop\Maël Clément\Solution\TP13\prog.cpp(93,21): warning C4244: 'initialisation' : conversion de 'int' en 'float', perte possible de données
+C:\Users\cleme\Desktop\Maël Clément\Solution\TP13\prog.cpp(97,52): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\cleme\Desktop\Maël Clément\Solution\TP13\prog.cpp(114,16): warning C4305: '+=' : troncation de 'double' à 'float'
+C:\Users\cleme\Desktop\Maël Clément\Solution\TP13\prog.cpp(145,16): warning C4305: '+=' : troncation de 'double' à 'float'
+C:\Users\cleme\Desktop\Maël Clément\Solution\TP13\prog.cpp(289,95): warning C4244: 'argument' : conversion de 'double' en 'BYTE', perte possible de données
+C:\Users\cleme\Desktop\Maël Clément\Solution\TP13\prog.cpp(469,22): warning C4553: '==' : résultat de l'expression non utilisé ; souhaitiez-vous utiliser '=' ?
+C:\Users\cleme\Desktop\Maël Clément\Solution\TP13\prog.cpp(475,25): warning C4244: '=' : conversion de 'float' en 'int', perte possible de données
+  TP13.vcxproj -> C:\Users\cleme\Desktop\Maël Clément\Solution\x64\Debug\TP13.exe
